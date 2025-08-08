@@ -1,0 +1,8 @@
+{
+  "name": "CITADINE D'60 | Location Voiture Beauvais Aéroport Pas Cher",
+  "description": "Location de voiture pas cher à Beauvais et à l'aéroport de Beauvais-Tillé (Oise 60). Réservez votre citadine (Clio, Polo, 208) en ligne. Service simple, rapide et économique.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
